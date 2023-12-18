@@ -10,6 +10,8 @@ I have also included my work in programming languages such as Python, SQL and R.
 
 </p>
 
+<!--
+
 <h2>👩‍💻 Programming Projects:</h2>
 
 - <b>Python</b>
@@ -28,6 +30,8 @@ I have also included my work in programming languages such as Python, SQL and R.
  
 - <b>Tableau</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+  -->
 
 <h2> 🤳 Connect with me:</h2>
 
