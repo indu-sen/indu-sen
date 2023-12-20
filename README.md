@@ -15,6 +15,11 @@ I have also included my work in programming languages such as Python, SQL and R.
  
 - <b>SQL</b>
   - [COVID](https://github.com/indu-sen/PortfolioProjects/tree/main/SQL%20Projects/COVID)
+ 
+<h2>📊 Data Visulizations Projects:</h2>
+ 
+- <b>Tableau</b>
+  - [COVID Dashboard](https://public.tableau.com/app/profile/indu.sen1237/viz/CovidDashboard_17030367679700/Dashboard1?publish=yes)
 
 <!-- will update after including projects
 
