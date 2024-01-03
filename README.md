@@ -19,7 +19,7 @@ I have also included my work in programming languages such as Python, SQL and R.
 <h2>📊 Data Visulizations Projects:</h2>
  
 - <b>Tableau</b>
-  - [COVID Dashboard](https://public.tableau.com/app/profile/indu.sen1237/viz/COVIDDashboard_17030952249320/Dashboard1?publish=yes)
+  - [COVID Dashboard](https://public.tableau.com/app/profile/indu.sen1237/viz/COVIDDashboard_17030952249320/Dashboard1)
 
 <!-- will update after including projects
 
