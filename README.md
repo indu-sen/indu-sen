@@ -16,10 +16,11 @@ I have also included my work in programming languages such as Python, SQL and R.
 - <b>SQL</b>
   - [COVID](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code)
  
-<h2>📊 Data Visulizations Projects:</h2>
+<h2>📊 Data Visualizations Projects:</h2>
  
 - <b>Tableau</b>
   - [COVID Dashboard - from SQL Queries ](https://public.tableau.com/app/profile/indu.sen1237/viz/COVIDDashboard_17030952249320/Dashboard1)
+   - ffff
   - [Immunization Dashboard - from SQL Queries](https://public.tableau.com/app/profile/indu.sen1237/viz/ImmunizationDashboard_17032121398330/Dashboard1?publish=yes)
 
 <!-- will update after including projects
