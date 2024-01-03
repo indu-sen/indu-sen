@@ -14,7 +14,7 @@ I have also included my work in programming languages such as Python, SQL and R.
 <h2>👩‍💻 Programming Projects:</h2>
  
 - <b>SQL</b>
-  - [COVID](https://github.com/indu-sen/PortfolioProjects/tree/main/SQL%20Projects/COVID)
+  - [COVID](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code)
  
 <h2>📊 Data Visulizations Projects:</h2>
  
