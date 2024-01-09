@@ -16,6 +16,9 @@ I have also included my work in programming languages such as Python, SQL and R.
 - <b>SQL</b>
   - [COVID](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code)
   - [World Life Expectancy](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World_Life_Expectancy.sql)
+  - [Immunizations]()
+
+ 
 - <b>Python</b>
   - [Unit of Measurement Converter](https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Unit_of_Measurement_Converter.ipynb)
   
@@ -24,7 +27,7 @@ I have also included my work in programming languages such as Python, SQL and R.
  
 - <b>Tableau</b>
   - [COVID Dashboard - from SQL Queries ](https://public.tableau.com/app/profile/indu.sen1237/viz/COVIDDashboard_17030952249320/Dashboard1)
-  - [Immunization Dashboard - from SQL Queries](https://public.tableau.com/app/profile/indu.sen1237/viz/ImmunizationDashboard_17032121398330/Dashboard1?publish=yes)
+  - [Immunizations Dashboard - from SQL Queries](https://public.tableau.com/app/profile/indu.sen1237/viz/ImmunizationDashboard_17032121398330/Dashboard1?publish=yes)
 
 <!-- will update after including projects
 
