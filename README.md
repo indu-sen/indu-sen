@@ -52,29 +52,10 @@ I have also included my work in programming languages such as Python, SQL and R.
 
 
 <h2>📊 Data Visualizations Projects:</h2>
-<ul>
-<li><b>Tableau</b><ul>
-<li><a href="https://public.tableau.com/app/profile/indu.sen1237/viz/COVIDDashboard_17030952249320/Dashboard1">COVID Dashboard - from SQL Queries </a></li>
-<li><a href="https://public.tableau.com/app/profile/indu.sen1237/viz/ImmunizationDashboard_17032121398330/Dashboard1?publish=yes">Immunizations Dashboard - from SQL Queries</a></li>
-</ul>
-</li>
-</ul>
 
 <ul>
 
 <li>Tableau</li>
-
-  <ul>
-  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code">COVID</a></li>
-  </ul>
-
-  <ul>
-  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql">Immunizations</a></li>
-  </ul>
-
-  <ul>
-  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Walmart's%20Sales/walmart_sale.sql">Walmart's Sales</a></li>
-  </ul>
 
   <ul>
   <li>COVID</li>
