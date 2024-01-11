@@ -13,23 +13,12 @@ I have also included my work in programming languages such as Python, SQL and R.
 
 <h2>👩‍💻 Programming Projects:</h2>
 
-<ul>
-<li><b>SQL</b><ul>
-<li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code">COVID</a></li>
-<li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World_Life_Expectancy.sql">World Life Expectancy</a></li>
-<li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql">Immunizations</a></li>
-<li><a href="">US Household Income</a></li>
-</ul>
-</li>
-</ul>
-
-
 <ul><!-- start of  main list-->
   <li>SQL</li>
    <ul><!-- start of nested list-->
-                <li>COVID</li>
-                <li>World Life Expectancy</li>
-                <li>Immunizations</li>
+                <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code">COVID</a></li>
+                <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World_Life_Expectancy.sql">World Life Expectancy</a></li>
+                <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql">Immunizations</a></li>
                 <li>US Household Income</li>
                    <ul>
                      <li>Data Cleaning</li>
