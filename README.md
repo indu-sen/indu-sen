@@ -79,5 +79,5 @@ I have also included my work in programming languages such as Python, SQL and R.
 
  <p>
   <a href="www.linkedin.com/in/indusen" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="Indu Sen's Linkedin" width="22px"></a> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Indu Sen's Linkedin" width="22px"></a> 
 </p>
