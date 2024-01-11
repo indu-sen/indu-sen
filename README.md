@@ -17,6 +17,7 @@ I have also included my work in programming languages such as Python, SQL and R.
   - [COVID](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code)
   - [World Life Expectancy](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World_Life_Expectancy.sql)
   - [Immunizations](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql)
+  - [US Household Income]()
 
  
 - <b>Python</b>
