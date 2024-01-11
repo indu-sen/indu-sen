@@ -17,8 +17,12 @@ I have also included my work in programming languages such as Python, SQL and R.
   <li>SQL</li>
    <ul><!-- start of nested list-->
                 <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code">COVID</a></li>
-                <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World_Life_Expectancy.sql">World Life Expectancy</a></li>
                 <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql">Immunizations</a></li>
+                <li>World Life Expectancy</li>
+                   <ul>
+                     <li>Data Cleaning</li>
+                     <li>Exploratory Data</li>
+                   </ul>
                 <li>US Household Income</li>
                    <ul>
                      <li>Data Cleaning</li>
