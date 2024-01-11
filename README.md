@@ -28,8 +28,8 @@ I have also included my work in programming languages such as Python, SQL and R.
   <ul>
   <li>World Life Expectancy</li>
     <ul>
-      <li><a href="$">Data Cleaning</a></li>
-       <li><a href="#"></a>Income Exploratory Data Analysis</li>
+      <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World%20Life%20Expectancy%20Data%20Cleaning.sql">Data Cleaning</a></li>
+       <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World%20Life%20Expectancy%20Exploratory%20Data%20Analysis.sql"></a> Exploratory Data Analysis</li>
     </ul>
   </ul>
 
