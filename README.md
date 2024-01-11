@@ -1,4 +1,4 @@
-<h1>Hi, I&#39;m Indu! <br/><a href="https://github.com/indu-sen/indu-sen">Data/Business Analyst </a></h1> 
+<h1>Hi, I'm Indu! <br/><a href="https://github.com/indu-sen/indu-sen">Data/Business Analyst </a></h1> 
 
 <p>I am a Data/Business Analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. 
 
@@ -23,14 +23,15 @@ I have also included my work in programming languages such as Python, SQL and R.
 </ul>
 </li>
 </ul>
+
 <ul>
 <li><b>Python</b><ul>
 <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Unit_of_Measurement_Converter.ipynb">Unit of Measurement Converter</a></li>
 </ul>
 </li>
 </ul>
-<h2>📊 Data Visualizations Projects:</h2>
 
+<h2>📊 Data Visualizations Projects:</h2>
 <ul>
 <li><b>Tableau</b><ul>
 <li><a href="https://public.tableau.com/app/profile/indu.sen1237/viz/COVIDDashboard_17030952249320/Dashboard1">COVID Dashboard - from SQL Queries </a></li>
@@ -38,6 +39,7 @@ I have also included my work in programming languages such as Python, SQL and R.
 </ul>
 </li>
 </ul>
+
 <h2> 🤳 Connect with me:</h2>
 
 <p><a href="https://linkedin.com/in/indusen"><img align="left" alt="Indu Sen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></p>
