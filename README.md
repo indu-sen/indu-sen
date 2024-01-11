@@ -18,7 +18,7 @@ I have also included my work in programming languages such as Python, SQL and R.
 <li>SQL</li>
 
   <ul>
-  <li>COVID<a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code">COVID</a></li>
+  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code">COVID</a></li>
   </ul>
 
   <ul>
