@@ -60,6 +60,46 @@ I have also included my work in programming languages such as Python, SQL and R.
 </li>
 </ul>
 
+<ul>
+
+<li>Tableau</li>
+
+  <ul>
+  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code">COVID</a></li>
+  </ul>
+
+  <ul>
+  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql">Immunizations</a></li>
+  </ul>
+
+  <ul>
+  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Walmart's%20Sales/walmart_sale.sql">Walmart's Sales</a></li>
+  </ul>
+
+  <ul>
+  <li>COVID</li>
+    <ul>
+      <li><a href="https://public.tableau.com/app/profile/indu.sen1237/viz/COVIDDashboard_17030952249320/Dashboard1">Dashboard </a></li>
+      <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code"</a>SQL Code</li>
+    </ul>
+  </ul>
+
+   <ul>
+  <li>Immunizations</li>
+    <ul>
+      <li><a href="https://public.tableau.com/app/profile/indu.sen1237/viz/ImmunizationDashboard_17032121398330/Dashboard1?publish=yes">Dashboard </a></li>
+      <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql"</a>SQL Code</li>
+    </ul>
+  </ul>
+
+
+
+<li>Python</li>
+  
+</ul>
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 <p><a href="https://linkedin.com/in/indusen"><img align="left" alt="Indu Sen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></p>
