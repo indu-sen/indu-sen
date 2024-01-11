@@ -37,7 +37,7 @@ I have also included my work in programming languages such as Python, SQL and R.
   <li>US Household Income</li>
     <ul>
       <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/US%20Household%20Income/US%20Income%20Data%20Cleaning.sql">Data Cleaning</a></li>
-      <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/US%20Household%20Income/US%20Income%20Exploratory%20Data%20Analysis.sql"></a>Exploratory Data Analysis</li>
+      <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/US%20Household%20Income/US%20Income%20Exploratory%20Data%20Analysis.sql"</a>Exploratory Data Analysis</li>
     </ul>
   </ul>
 
