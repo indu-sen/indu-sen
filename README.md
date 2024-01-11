@@ -26,10 +26,10 @@ I have also included my work in programming languages such as Python, SQL and R.
   </ul>
 
   <ul>
-  <li>COVID</li>
+  <li>World Life Expectancy</li>
     <ul>
-      <li>Link</li>
-       <li>Link</li>
+      <li><a href="#">Data Cleaning</a></li>
+       <li><a href="#">Exploatary Analysis</a>Link</li>
     </ul>
   </ul>
 
