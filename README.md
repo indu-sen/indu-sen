@@ -22,14 +22,14 @@ I have also included my work in programming languages such as Python, SQL and R.
   </ul>
 
   <ul>
-  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql">Immunizations</a></li>
+  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql"></a>Immunizations</li>
   </ul>
 
   <ul>
   <li>World Life Expectancy</li>
     <ul>
       <li><a href="#">Data Cleaning</a></li>
-       <li><a href="#">Exploatary Analysis</a>Link</li>
+       <li><a href="#"></a>Exploatary Analysis</li>
     </ul>
   </ul>
 
