@@ -34,10 +34,10 @@ I have also included my work in programming languages such as Python, SQL and R.
   </ul>
 
    <ul>
-  <li>COVID</li>
+  <li>US Household Income</li>
     <ul>
-      <li>Link</li>
-       <li>Link</li>
+      <li><a href="#">Data Cleaning</a></li>
+      <li><a href="#"></a>Exploatary Analysis</li>
     </ul>
   </ul>
 
