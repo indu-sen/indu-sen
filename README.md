@@ -13,12 +13,12 @@ I have also included my work in programming languages such as Python, SQL and R.
 
 <h2>👩‍💻 Programming Projects:</h2>
  
-- <b>SQL</b>
-  - [COVID](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code)
-  - [World Life Expectancy](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World_Life_Expectancy.sql)
-  - [Immunizations](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql)
-  - [US Household Income]()
-  -  ddddd
+* <b>SQL</b>
+  * [COVID](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code)
+  * [World Life Expectancy](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World_Life_Expectancy.sql)
+  * [Immunizations](https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql)
+  * [US Household Income]()
+   *  ddddd
 
  
 - <b>Python</b>
@@ -30,29 +30,6 @@ I have also included my work in programming languages such as Python, SQL and R.
 - <b>Tableau</b>
   - [COVID Dashboard - from SQL Queries ](https://public.tableau.com/app/profile/indu.sen1237/viz/COVIDDashboard_17030952249320/Dashboard1)
   - [Immunizations Dashboard - from SQL Queries](https://public.tableau.com/app/profile/indu.sen1237/viz/ImmunizationDashboard_17032121398330/Dashboard1?publish=yes)
-
-<!-- will update after including projects
-
-<h2>👩‍💻 Programming Projects:</h2>
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
-- <b>SQL</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
-- <b>R</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
-<h2>📊 Data Visulizations Projects:</h2>
-
-- <b>PowerBI</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
-- <b>Tableau</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-  -->
 
 <h2> 🤳 Connect with me:</h2>
 
