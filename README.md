@@ -72,10 +72,3 @@ I have also included my work in programming languages such as Python, SQL and R.
       <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql"</a>SQL Code</li>
     </ul>
   </ul>
-
-<h2>👩‍💻 Programming Projects:</h2>
-
-<h2>🤳 Connect with Me: </h2>
-
-<img align="left" alt="Indu Sen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
