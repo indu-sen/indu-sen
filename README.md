@@ -19,7 +19,6 @@ I have also included my work in programming languages such as Python, SQL and R.
 <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World_Life_Expectancy.sql">World Life Expectancy</a></li>
 <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql">Immunizations</a></li>
 <li><a href="">US Household Income</a></li>
-<li>ddddd</li>
 </ul>
 </li>
 </ul>
