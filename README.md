@@ -23,6 +23,31 @@ I have also included my work in programming languages such as Python, SQL and R.
 </li>
 </ul>
 
+
+<ul><!-- start of  main list-->
+  <li>SQL</li>
+   <ul><!-- start of nested list-->
+                <li>COVID</li>
+                <li>World Life Expectancy</li>
+                <li>Immunizations</li>
+                <li>US Household Income</li>
+                   <ul>
+                     <li>Data Cleaning</li>
+                     <li>Exploratory Data</li>
+                   </ul>
+            </ul><!--end of nested list-->
+   <li>Python</li>
+    <ul>
+      <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Unit_of_Measurement_Converter.ipynb">Unit of Measurement Converter</a></li>
+    </ul>
+ </ul><!--end of  main list -->
+
+
+
+
+
+
+
 <ul>
 <li><b>Python</b><ul>
 <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Unit_of_Measurement_Converter.ipynb">Unit of Measurement Converter</a></li>
