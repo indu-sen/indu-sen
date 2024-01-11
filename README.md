@@ -13,40 +13,35 @@ I have also included my work in programming languages such as Python, SQL and R.
 
 <h2>👩‍💻 Programming Projects:</h2>
 
-<ul><!-- start of  main list-->
-  <li>SQL</li>
-   <ul><!-- start of nested list-->
-                <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code">COVID</a></li>
-                <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Immunizations/Flu_shots.sql">Immunizations</a></li>
-                <li>World Life Expectancy</li>
-                   <ul>
-                     <li>Data Cleaning</li>
-                     <li>Exploratory Data</li>
-                   </ul>
-                <li>US Household Income</li>
-                   <ul>
-                     <li>Data Cleaning</li>
-                     <li>Exploratory Data</li>
-                   </ul>
-            </ul><!--end of nested list-->
-   <li>Python</li>
-    <ul>
-      <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Unit_of_Measurement_Converter.ipynb">Unit of Measurement Converter</a></li>
-    </ul>
- </ul><!--end of  main list -->
-
-
-
-
-
-
-
 <ul>
-<li><b>Python</b><ul>
-<li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Unit_of_Measurement_Converter.ipynb">Unit of Measurement Converter</a></li>
+
+<li>SQL</li>
+
+  <ul>
+  <li>COVID<a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/COVID/Code">COVID</a></li>
+  </ul>
+
+  <ul>
+  <li>COVID</li>
+    <ul>
+      <li>Link</li>
+       <li>Link</li>
+    </ul>
+  </ul>
+
+   <ul>
+  <li>COVID</li>
+    <ul>
+      <li>Link</li>
+       <li>Link</li>
+    </ul>
+  </ul>
+
+<li>Python</li>
+  
 </ul>
-</li>
-</ul>
+
+
 
 <h2>📊 Data Visualizations Projects:</h2>
 <ul>
