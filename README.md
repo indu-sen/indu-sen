@@ -26,6 +26,10 @@ I have also included my work in programming languages such as Python, SQL and R.
   </ul>
 
   <ul>
+  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/Walmart's%20Sales/walmart_sale.sql">Walmart's Sales</a></li>
+  </ul>
+
+  <ul>
   <li>World Life Expectancy</li>
     <ul>
       <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/SQL/World%20Life%20Expectancy/World%20Life%20Expectancy%20Data%20Cleaning.sql">Data Cleaning</a></li>
