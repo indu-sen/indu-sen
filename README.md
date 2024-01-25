@@ -62,6 +62,10 @@ I have also included my work in programming languages such as Python, SQL and R.
   </ul>
 
   <ul>
+  <li> Car fuel efficiency <i> (code coming soon) </i></li>
+  </ul>
+
+  <ul>
   <li>Predicting Horror Movie Ratings <i> (code coming soon) </i></li>
   </ul>
 
