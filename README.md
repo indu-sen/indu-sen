@@ -52,7 +52,7 @@ I have also included my work in programming languages such as Python, SQL and R.
   </ul>
 
   <ul>
-  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Astronomical_Tabular_Data_Visualization.ipynb">Astronomical</a></li>
+  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Astronomical_Tabular_Data_Visualization.ipynb">Astronomy</a></li>
   </ul>
   
 </ul>
