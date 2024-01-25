@@ -62,7 +62,7 @@ I have also included my work in programming languages such as Python, SQL and R.
   </ul>
 
   <ul>
-  <li> Car fuel efficiency <i> (code coming soon) </i></li>
+  <li> Car Fuel Efficiency <i> (code coming soon) </i></li>
   </ul>
 
   <ul>
