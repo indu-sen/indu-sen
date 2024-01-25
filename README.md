@@ -50,6 +50,10 @@ I have also included my work in programming languages such as Python, SQL and R.
   <ul>
   <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Movies%20Genres/Movie%20Genres%20Data%20Analysis%20Project.ipynb">Movie Genres</a></li>
   </ul>
+
+  <ul>
+  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Astronomical_Tabular_Data_Visualization.ipynb">Astronomical</a></li>
+  </ul>
   
 </ul>
 
