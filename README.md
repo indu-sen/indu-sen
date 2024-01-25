@@ -57,18 +57,6 @@ I have also included my work in programming languages such as Python, SQL and R.
 
 <li>R</li>
 
-  <ul>
-  <li>Pizza Ratings <i> (code coming soon) </i></li>
-  </ul>
-
-  <ul>
-  <li> Car Fuel Efficiency <i> (code coming soon) </i></li>
-  </ul>
-
-  <ul>
-  <li>Predicting Horror Movie Ratings <i> (code coming soon) </i></li>
-  </ul>
-
   
 </ul>
 
