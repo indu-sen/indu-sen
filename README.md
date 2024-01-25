@@ -58,11 +58,11 @@ I have also included my work in programming languages such as Python, SQL and R.
 <li>R</li>
 
   <ul>
-  <li><a href="#">Pizza Ratings <i> (code coming soon) </i></a></li>
+  <li>Pizza Ratings <i> (code coming soon) </i></li>
   </ul>
 
   <ul>
-  <li><a href="#">Predicting Horror Movie Ratings <i> (code coming soon) </i></a></li>
+  <li>Predicting Horror Movie Ratings <i> (code coming soon) </i></li>
   </ul>
 
   
