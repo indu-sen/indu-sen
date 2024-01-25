@@ -55,7 +55,16 @@ I have also included my work in programming languages such as Python, SQL and R.
   <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Astronomical_Tabular_Data_Visualization.ipynb">Astronomy</a></li>
   </ul>
 
-<li>R<i>(coming soon!)</i></li>
+<li>R</li>
+
+  <ul>
+  <li><a href="#">Pizza Ratings <i> (code coming soon) </i></a></li>
+  </ul>
+
+  <ul>
+  <li><a href="#">Predicting Horror Movie Ratings <i> (code coming soon) </i></a></li>
+  </ul>
+
   
 </ul>
 
