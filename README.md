@@ -56,7 +56,7 @@ I have also included my work in programming languages such as Python, SQL and R.
   </ul>
 
   <ul>
-  <li><a href="">Sales Analysis</a></li>
+  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/Python/Sales%20Analysis/Sales_Analysis.ipynb">Sales Analysis</a></li>
   </ul>
 
 <li>R</li>
