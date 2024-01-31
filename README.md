@@ -69,6 +69,10 @@ I have also included my work in programming languages such as Python, SQL and R.
   <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/R/Retail/Retail_Customer_Segementation.Rmd">Retail Customer Segmentation using RFM </a></li>
   </ul>
 
+  <ul>
+  <li>Credit Fraud Detection <i>(Coming Soon)</i></a></li>
+  </ul>
+
   
 </ul>
 
