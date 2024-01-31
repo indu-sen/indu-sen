@@ -73,9 +73,12 @@ I have also included my work in programming languages such as Python, SQL and R.
   <li>Credit Fraud Detection <i>(Coming Soon)</i></a></li>
   </ul>
 
+  <ul>
+  <li>Web Scraping - RateMyProfessors.com <i>(Coming Soon)</i></a></li>
+  </ul>
+
   
 </ul>
-
 
 
 <h2>📊 Data Visualizations Projects:</h2>
