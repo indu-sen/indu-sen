@@ -70,7 +70,7 @@ I have also included my work in programming languages such as Python, SQL and R.
   </ul>
 
   <ul>
-  <li>Credit Fraud Detection <i>(Coming Soon)</i></a></li>
+  <li><a href="https://github.com/indu-sen/Portfolio-Projects/blob/main/R/Card%20Fraud%20/Credit%20Card%20Fraud.Rmd">Credit Fraud Detection</a></li>
   </ul>
 
   <ul>
