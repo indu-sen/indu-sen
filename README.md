@@ -2,7 +2,7 @@
 
 <p> I am a Data Scientist/Engineer with experience in using advanced tools and methodologies to extract, analyze, and interpret data for strategic business decision-making. 
 
-With proficiency in statistical modeling, predictive analytics, and data mining, I am skilled in Python, R, SQL, and a variety of data visualization tools such as PowerBI, Tableau, and Looker. I also have hands-on experience with data engineering processes, ensuring the seamless integration and management of data pipelines, as well as implementing best practices for data governance.
+With proficiency in statistical modeling, predictive analytics, and data mining, I am skilled in Python, R, SQL, and a variety of data visualization tools such as PowerBI and Tableau. I also have hands-on experience with data engineering processes, ensuring the seamless integration and management of data pipelines. 
 
 In this portfolio, you will find a diverse range of projects that highlight my skills in data analytics and engineering. From building complex predictive models to crafting insightful dashboards and reports, these projects showcase my ability to turn raw data into valuable insights. I have also included examples of my work in product analytics and strategy, demonstrating my ability to align data insights with business objectives to drive growth and performance.
 
