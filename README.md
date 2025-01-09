@@ -1,12 +1,10 @@
-<h1>Hi, I'm Indu! <br/><a href="https://github.com/indu-sen/indu-sen">Data/Business Analyst </a></h1> 
+<h1>Hi, I'm Indu! <br/><a href="https://github.com/indu-sen/indu-sen">Data Scientist/Engineer</a></h1> 
 
-<p>I am a Data/Business Analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. 
+<p> I am a Data Scientist/Engineer with experience in using advanced tools and methodologies to extract, analyze, and interpret data for strategic business decision-making. 
 
-I am proficient in Python, R, SQL, Google Cloud Platform (Google BigQuery), PowerBI, Tableau, and Looker. I have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, and statistics. 
+With proficiency in statistical modeling, predictive analytics, and data mining, I am skilled in Python, R, SQL, and a variety of data visualization tools such as PowerBI, Tableau, and Looker. I also have hands-on experience with data engineering processes, ensuring the seamless integration and management of data pipelines, as well as implementing best practices for data governance.
 
-In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links of the dashboards and reports I have created using various tools such as Tableau and Excel. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take actions.
-
-I have also included my work in programming languages such as Python, SQL and R. These projects showcase my ability to extract valuable insights from large and complex data sets, and to combine data from multiple sources to create a comprehensive view of the data.
+In this portfolio, you will find a diverse range of projects that highlight my skills in data analytics and engineering. From building complex predictive models to crafting insightful dashboards and reports, these projects showcase my ability to turn raw data into valuable insights. I have also included examples of my work in product analytics and strategy, demonstrating my ability to align data insights with business objectives to drive growth and performance.
 
 </p>
 
